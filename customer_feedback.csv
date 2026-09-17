@@ -1,0 +1,31 @@
+Feedback_ID,Customer_ID,Date,Country,Channel,Product_Category,Rating,Delivery_Days,Expected_Delivery_Days,Resolution_Status,Resolution_Days,Feedback_Text
+FB001,C001,1/3/2026,Nigeria,Website,Electronics,5,2,4,Resolved,1,Excellent service and very fast delivery
+FB002,C002,1/4/2026,Ghana,App,Fashion,2,7,4,Unresolved,0,Delivery was very slow and disappointing
+FB003,C003,1/5/2026,Kenya,WhatsApp,Groceries,4,3,4,Resolved,1,Customer service was very helpful
+FB004,C004,,Nigeria,Social Media,Electronics,1,9,4,Unresolved,0,My order arrived very late
+FB005,C005,,South Africa,Website,Fashion,3,4,4,Resolved,2,The service was okay
+FB006,C006,,Nigeria,App,Groceries,5,2,3,Resolved,1,I loved the service and quick delivery
+FB007,C007,,Ghana,Website,Electronics,1,8,4,Unresolved,0,My payment failed and support did not help
+FB008,C008,,Kenya,Social Media,Fashion,2,6,3,Unresolved,4,I am disappointed with the delivery
+FB009,C009,,Nigeria,WhatsApp,Groceries,4,3,3,Resolved,1,The product was good and arrived on time
+FB010,C010,,South Africa,App,Electronics,5,2,4,Resolved,1,Excellent product and great experience
+FB011,C011,,Nigeria,Website,Fashion,2,7,4,Unresolved,0,Very poor delivery experience
+FB012,C012,,Ghana,WhatsApp,Groceries,4,3,4,Resolved,2,The service was good
+FB013,C013,,Kenya,Website,Electronics,5,2,4,Resolved,1,Fast delivery and excellent service
+FB014,C014,,Nigeria,Social Media,Fashion,1,10,4,Unresolved,0,Very bad experience and late delivery
+FB015,C015,,Ghana,App,Electronics,3,5,4,Resolved,3,The product was okay but delivery was late
+FB016,C016,,Kenya,WhatsApp,Groceries,5,2,3,Resolved,1,Great service and helpful staff
+FB017,C017,,Nigeria,Website,Electronics,4,3,4,Resolved,1,Good product and quick delivery
+FB018,C018,,South Africa,Social Media,Fashion,2,6,4,Unresolved,0,The product was disappointing
+FB019,C019,,Ghana,Website,Groceries,5,2,3,Resolved,1,Excellent product and service
+FB020,C020,,Nigeria,App,Electronics,1,8,4,Unresolved,0,Payment failed and I am very disappointed
+FB021,C021,,Kenya,Website,Fashion,4,3,4,Resolved,2,Good quality and fast delivery
+FB022,C022,,Nigeria,WhatsApp,Groceries,3,4,4,Resolved,2,The experience was okay
+FB023,C023,,Ghana,Social Media,Electronics,2,7,4,Unresolved,0,My order was late and support was slow
+FB024,C024,,Kenya,App,Fashion,5,2,3,Resolved,1,I love the product and service
+FB025,C025,,South Africa,Website,Groceries,4,3,4,Resolved,1,Good experience and helpful support
+FB026,C026,,Nigeria,Social Media,Electronics,1,9,4,Unresolved,0,Terrible delivery and poor service
+FB027,C027,,Ghana,App,Fashion,5,2,4,Resolved,1,Excellent service and very good product
+FB028,C028,,Kenya,Website,Groceries,3,4,4,Resolved,2,The service was okay
+FB029,C029,,Nigeria,Website,Electronics,2,6,4,Unresolved,0,Very disappointed with the late delivery
+FB030,C030,,South Africa,WhatsApp,Fashion,5,2,4,Resolved,1,Great product and excellent service
