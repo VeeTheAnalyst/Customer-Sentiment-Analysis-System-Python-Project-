@@ -245,25 +245,6 @@ This project has several limitations:
 
 ---
 
-## Team
-
-**Python Study Group — Team H**
-
-* Mustapha Emmanuel Oladeji — Junior Data Analyst(Team Captain)
-* Nnadiukwu Glory Vivian — Junior Data Analyst(Team Member)
-* Ekashili Kechukwu Promise — Junior Data Analyst(Team Member)
-* Ehilawa Blessing Mmesoma — Junior Data Analyst(Team Member) 
-
----
-
-## My Contribution
-
-**Role:** Junior Data Analyst — Team Member(Team H)
-
-My contribution to this project included working on the Python-based customer sentiment analysis system, including data processing, analysis functions, sentiment and resolution analysis, and interpreting the resulting customer-feedback insights.
-
----
-
 ## Skills Demonstrated
 
 * Python Programming
@@ -285,3 +266,41 @@ My contribution to this project included working on the Python-based customer se
 This project demonstrates how Python can be used to transform raw customer feedback into structured insights that help identify customer sentiment, operational pain points, and potential customer-risk areas.
 
 The project provided practical experience in **Python programming, data analysis, data cleaning, business problem-solving, and communicating analytical findings**.
+
+---
+
+## Project Structure
+
+Customer-Sentiment-Analysis-System/
+
+│ ├── customer_sentiment_analysis.py # Main Analysis Script
+│ ├── customer_feedback.csv # Dataset
+│ └── README.md
+│ ├── data-cleaning.png 
+│ ├── sentiment-analysis.png 
+│ ├── analysis-results.png 
+│ ├── screenshots/ │ ├── python-code.png 
+
+---
+
+## Author
+**Nnadiukwu Glory Vivian**
+Junior Data Analyst
+**Email:** gloryvivian2000@gmail.com
+**LinkedIn:**
+
+## Team
+
+**Python Study Group — Team H**
+
+* Mustapha Emmanuel Oladeji — Junior Data Analyst(Team Captain)
+* Nnadiukwu Glory Vivian — Junior Data Analyst(Team Member)
+* Ekashili Kechukwu Promise — Junior Data Analyst(Team Member)
+* Ehilawa Blessing Mmesoma — Junior Data Analyst(Team Member) 
+
+---
+
+## My Contribution
+
+My contribution to this project included working on the Python-based customer sentiment analysis system, including data processing, analysis functions, sentiment and resolution analysis, and interpreting the resulting customer-feedback insights.
+
